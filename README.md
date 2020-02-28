@@ -10,14 +10,14 @@ The process of learning begins with data, such as, direct experience, or instruc
 ## Repository Overview
 This repository is about different Machine Learning algorithm approaches as per the industry practices.
 ## Table of Contents
-- [Employee churn prediction](#section1)<br>
+- [Hr Analytics](#section1)<br>
 - [Credit Fraud Detection](#section2)<br>
 - [Gender Recognition by Voice](#section3)<br>
 - [Telecom Churn Prediction](#section4)<br>
 
 ___
 <a id=section1></a>
-### [Employee churn prediction](./Employeechurn)
+### [Hr Analytics](./Employeechurn)
 ![image.jpg](images/hr_analytics.png)<br><br>
 - Employee churn is the overall turnover in an organization's staff as existing employees leave and new ones are hired. 
 - The churn rate is usually calculated as the percentage of employees leaving the company over some specified time period.
