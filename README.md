@@ -11,8 +11,9 @@ The process of learning begins with data, such as, direct experience, or instruc
 This repository is about different Machine Learning algorithm approaches as per the industry practices.
 ## Table of Contents
 - [Employee churn prediction](#section1)<br>
-- [Gender Recognition by Voice](#section2)<br>
-- [Telecom Churn Prediction](#section3)<br>
+- [Credit Fraud Detection](#section2)<br>
+- [Gender Recognition by Voice](#section3)<br>
+- [Telecom Churn Prediction](#section4)<br>
 
 ___
 <a id=section1></a>
@@ -38,20 +39,11 @@ ___
 
 ___
 <a id=section3></a>
-### [Spam detection](./SpamDetection)
-![image.png](image/spam.png)<br><br>
-- This is a beginner's example of __document classification__ task which involves __classifying__ an email as spam or not spam mail.
-- Spam box in your __Gmail account__ is the best example of this.
-- [Link for the Jupyter notebook](./SpamDetection/Spam&Ham.ipynb)
-
-
-___
-<a id=section4></a>
-### [Customer Segmentation using RFM Analysis](./CustomerSegmentationUsingRFM)
-![image.jpg](image/rfm1.jpg)<br><br>
-- Businesses that __lack__ the monetary aspect, like __viewership__, __readership__, or __surfing-oriented products__, could use __Engagement parameters__ instead of Monetary factors.
-- The Engagement parameter could be defined as a composite value based on metrics such as __bounce rate__, __visit duration__, __number of pages visted__, __time spent per page__ etc.
-- RFM stand for __Recency__, __Frequency__ and __Monetary__.
-- [Link for the Jupyter notebook](./CustomerSegmentationUsingRFM/Clustering.ipynb)
+### [Telecom Churn Prediction](./TelecomChurn)
+![image.jpg](image/telecom.jpg)<br><br>
+- A churn with respect to the Telecom industry, is defined as the percentage of __subscribers moving__ from a specific service to a service provider to another in a period of time.
+- Research shows that the companies have an __avergae churn of 1.9 to 2 percent__ month on month and annualized churn ranging from 10 to 60 percent.
+- An effort to build a model which helps in reducing the churn rate for a telecom company.
+- [Link for the Jupyter notebook](./TelecomChurn/Telco_Churn.ipynb)
 
 ## Projects in execution
