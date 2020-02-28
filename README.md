@@ -12,8 +12,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 ## Table of Contents
 - [Employee churn prediction](#section1)<br>
 - [Gender Recognition by Voice](#section2)<br>
-- [Spam Detection](#section3)<br>
-- [Customer Segmentation using RFM Analysis](#section4)<br>
+- [Telecom Churn Prediction](#section3)<br>
 
 ___
 <a id=section1></a>
