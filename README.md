@@ -29,7 +29,7 @@ ___
 ___
 <a id=section2></a>
 ### [Credit Fraud Detection](./CreditCardFraud)
-![image.jpg](image/credit_card.jpg)<br><br>
+![image.jpg](images/credit_card.jpg)<br><br>
 - Credit card fraud is a wide-ranging term for __theft__ and __fraud committed__ using or involving a payment card, such aas credit or debit card, as  __fraudulent source__ of funds in a transaction. 
 - The purpose may be to obtain goods without paying, or to obtain __unautorized funds from an account__.
 - Credit card fraud is also and adjunt to __identity__ theft.
@@ -40,7 +40,7 @@ ___
 ___
 <a id=section3></a>
 ### [Telecom Churn Prediction](./TelecomChurn)
-![image.jpg](image/customer churn.png)<br><br>
+![image.png](images/customer_churn.png)<br><br>
 - A churn with respect to the Telecom industry, is defined as the percentage of __subscribers moving__ from a specific service to a service provider to another in a period of time.
 - Research shows that the companies have an __avergae churn of 1.9 to 2 percent__ month on month and annualized churn ranging from 10 to 60 percent.
 - An effort to build a model which helps in reducing the churn rate for a telecom company.
