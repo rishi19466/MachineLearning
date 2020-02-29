@@ -1,5 +1,5 @@
 # Fraud Detection
-![image.jpg](images/fraud-dection-banner-optimized.jpg)
+![image.jpg](Images/fraud.jpg)
 
 - Fraud Detection is a topic applicable to many industries including banking and financial sectors, insurance, government agencies and law enforcement, and more.
 - Fraud attemps have seen a drastic increase in recent years, making fraud detection more important than ever.
