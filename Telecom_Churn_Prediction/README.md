@@ -15,15 +15,5 @@ Predictive analytics  use churn prediction models that __predict customer churn_
 # Use Case: Telecom Churn
 ![image.jpeg](images.jpeg)<br><br>
 "__Predict behaviour__ to retain customers. You can analyze all relevant customer's data and develop focused __customer retention__.
-# Data overview
-![image.jpg](data-vs-information.jpg)<br><br>
-Here in the dataset, each row represents a customer, each column contains customer's attributes described in column Metadata.
 
-**The Data set includes information about:**<br>
-- __Customers who left within the last month__ - the column is called Churn.
-- __Services that each customer has signed up for__ - phone, multiple lines, internet, online security, online bacup, device protection, tech support and streaming TV and movies.
-- __Customer account information__ - How long they've been a customer, contract, payment method, paperless billing, monthly charges and total charges.
-- __Demographic info about Customers__- gender, age, range, and if they have partners and dependents.
-# Insights
-![image.png](download.png)
 
