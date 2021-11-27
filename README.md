@@ -45,19 +45,4 @@ ___
 ## Projects in execution
 
 
-SIC Databasehttp://www.siclists.com â€º california â€º beale-afbhttp://www.siclists.com â€º california â€º b
-SIC Code 3484 and NAICS Code 332994.Missing: CHELTENHAM â€Ž| Must include: CHELTENHAMnaics code 928110
-SIC Code: 922304 - City Govt-Correctional Institutions; SIC Category: Justice, Public Order and Safe
-SIC Code 8322 and NAICS Code 624190.data center sic codecall center sic codesic code 73899999sic cod
-SIC CodeSearch instead for VERMONT NATIONAL AIRGUARD SIC CodeSearch ResultsWeb resultsVermont Army N
-SIC Code 92,922. NAICS Code 92212,9221. Show More. Popular Searches: Portsmouth Police Department. T
-SIC Code 6282 - Investment Advice and NAICS Code 523930 - Investment Advice.Fredericks Michael And C
-SIC)Â ...hawthorne army depot addresshawthorne army depot phone numbershawthorne army depot base hous
-SIC Code 92. NAICS Code 9221,922. Show More. Popular Searches: newport chemical depotÂ ...Newport Che
-SIC Code 3482 - Small arms ammunitionhttps://siccode.com â€º SIC Lookup â€º 20-39 Hierarchyhttps://sicco
-SIC Code 8711 - Engineering serviceshttps://siccode.com â€º SIC Lookup â€º 70-89 Hierarchyhttps://siccod
-SIC â€ŽCodelist of army reserve units by statearmy reserve deployment schedule 2021list of reserve for
-SICK LEAVE.13 pagescop codesnyc 911 call lognypd codes3-8 police code world trade centerpolice scann
-SIC Code Search ResultsWeb resultsGreen Haven Correctional Location:Stormville,New York,USA ...http:
-SIC 9711https://siccode.com â€º ... â€º NAICS 928110 Detailshttps://siccode.com â€º ... â€º NAICS 928110 Det
-SIC Industry: 8711 Engineering Services | NAICS Associationhttps://www.naics.com â€º sic-industry-desc
+
